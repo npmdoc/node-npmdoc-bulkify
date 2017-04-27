@@ -1,6 +1,6 @@
 # npmdoc-bulkify
 
-#### api documentation for  [bulkify (v1.4.2)](https://github.com/substack/bulkify)  [![npm package](https://img.shields.io/npm/v/npmdoc-bulkify.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-bulkify) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-bulkify.svg)](https://travis-ci.org/npmdoc/node-npmdoc-bulkify)
+#### basic api documentation for  [bulkify (v1.4.2)](https://github.com/substack/bulkify)  [![npm package](https://img.shields.io/npm/v/npmdoc-bulkify.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-bulkify) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-bulkify.svg)](https://travis-ci.org/npmdoc/node-npmdoc-bulkify)
 
 #### transform inline bulk-require calls into statically resolvable require maps
 
@@ -74,7 +74,8 @@
     "scripts": {
         "test": "tape test/*.js"
     },
-    "version": "1.4.2"
+    "version": "1.4.2",
+    "bin": {}
 }
 ```
 
